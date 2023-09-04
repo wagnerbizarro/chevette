@@ -1,4 +1,5 @@
-# css_grid_chevette
-Autor: Wagner Bizarro  
-Stack: HTML/CSS(grid)/JS/JQuery/PHP/AJAX/SQlite  
-Sobre o Chevrolet Chevette  
+# Template GRID   
+***Autor:*** _Wagner Bizarro_    
+***Stack:*** html/css/js/php  
+***Data:*** 04/09/2023  
+  
