@@ -24,19 +24,6 @@ a {
     padding: 20px;
 }
 
-.menu {
-    display: flex;
-}
-
-.menu li {
-    margin-left: 10px;
-}
-
-.menu li a {
-    display: block;
-    padding: 10px;
-}
-
 
 /* Templates Areas */
 .container {
@@ -48,13 +35,15 @@ a {
     grid-template-areas: 
     'section section section section'
     'sidebar content content content'
-    'footer footer footer footer';
+    'sidebar content content content'
+    'sidebar content content content'
 }
 
 .container div {
     background-color: #ccc;
     padding: 20px;
     border: 1px solid blue;
+    word-wrap: break-word;
 }
 
 #section {
@@ -69,8 +58,4 @@ a {
 #content {
     grid-area: content;
     height: 50vh;
-}
-
-#footer {
-    grid-area: footer;
 }
