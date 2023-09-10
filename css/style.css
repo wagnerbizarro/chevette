@@ -21,13 +21,18 @@ a {
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
-    padding: 20px;
+    padding: 10px;
 }
 
+.title {
+    color: white;
+    text-align: center;
+    margin-right: 70%;
+}
 
 /* Templates Areas */
 .container {
-    background-color: tomato;
+    background-color: gray;
     border: 3px solid black;
     padding: 15px;
     display: grid;
@@ -40,9 +45,9 @@ a {
 }
 
 .container div {
-    background-color: #ccc;
+    background-color: white;
     padding: 20px;
-    border: 1px solid blue;
+    border: 1px solid black;
     word-wrap: break-word;
 }
 
@@ -58,4 +63,15 @@ a {
 #content {
     grid-area: content;
     height: 50vh;
+}
+
+.rodape {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color:white;
+    background-color: black;
+    padding: 10px;
+    text-align: center;
 }
