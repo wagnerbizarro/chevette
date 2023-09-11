@@ -1,4 +1,5 @@
-#chevette  
-Autor: Wagner Bizarro  
-Stack: HTML/CSS    
-Sobre o Chevrolet Chevette  
+# template_grid  
+**Autor:** _Wagner Bizarro_  
+**Sobre:** CSS GRID - Chevette   
+**Stack:** html/css  
+**Data:** 04/09/2023  
