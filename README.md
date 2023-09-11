@@ -1,4 +1,4 @@
-# template_grid  
+# Chevette
 **Autor:** _Wagner Bizarro_  
 **Sobre:** CSS GRID - Chevette   
 **Stack:** html/css  
